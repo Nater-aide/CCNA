@@ -1,0 +1,5 @@
+- ```Enable``` -- gets you into privileged mode
+- ```quit``` ```logout``` ```exit``` -- leaves User Exec Mode
+- ```config t``` -- gets you into global config mode
+- ```exit``` ```end``` ```control Z``` -- gets you back to user mode
+- 
