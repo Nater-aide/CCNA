@@ -11,6 +11,16 @@
 - **Category 7**: Used in networks running at speeds of up to 10 Gbps
 - **Category 8**: Used in networks running at speeds of up to 40 Gbps
 ----------------------------------
+- **LC**: is for enterprise equipment and is commonly used on Small Form-Factor Pluggable (SFP) modules.
+- **SC**: is for enterprise equipment.
+- **ST**: is for patch panels (for their durability).
+- **FC**: is for patch panels and is used by service providers.
+- **MT-RJ**: the connector is a two-fiber connector (transmit and receive), has a form factor and, is used for enterprise equipment.
+----------------------------------
+- Unicast -- one device to one device
+- broadcast -- one device to all devices in lan/
+
+----------------------------------
 ![image](https://github.com/user-attachments/assets/414fd6a5-7b48-4865-bd9d-d1c852b2a7b9)
 
 ![image](https://github.com/user-attachments/assets/24c44bbd-a2c5-45bf-a74f-1816c96ca9a1)
